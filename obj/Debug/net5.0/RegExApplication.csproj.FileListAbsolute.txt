@@ -1,0 +1,16 @@
+c:\Users\DeLL\Documents\CS Projects\cs\RegExApplication\bin\Debug\net5.0\RegExApplication.exe
+c:\Users\DeLL\Documents\CS Projects\cs\RegExApplication\bin\Debug\net5.0\RegExApplication.deps.json
+c:\Users\DeLL\Documents\CS Projects\cs\RegExApplication\bin\Debug\net5.0\RegExApplication.runtimeconfig.json
+c:\Users\DeLL\Documents\CS Projects\cs\RegExApplication\bin\Debug\net5.0\RegExApplication.runtimeconfig.dev.json
+c:\Users\DeLL\Documents\CS Projects\cs\RegExApplication\bin\Debug\net5.0\RegExApplication.dll
+c:\Users\DeLL\Documents\CS Projects\cs\RegExApplication\bin\Debug\net5.0\ref\RegExApplication.dll
+c:\Users\DeLL\Documents\CS Projects\cs\RegExApplication\bin\Debug\net5.0\RegExApplication.pdb
+c:\Users\DeLL\Documents\CS Projects\cs\RegExApplication\obj\Debug\net5.0\RegExApplication.csproj.AssemblyReference.cache
+c:\Users\DeLL\Documents\CS Projects\cs\RegExApplication\obj\Debug\net5.0\RegExApplication.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DeLL\Documents\CS Projects\cs\RegExApplication\obj\Debug\net5.0\RegExApplication.AssemblyInfoInputs.cache
+c:\Users\DeLL\Documents\CS Projects\cs\RegExApplication\obj\Debug\net5.0\RegExApplication.AssemblyInfo.cs
+c:\Users\DeLL\Documents\CS Projects\cs\RegExApplication\obj\Debug\net5.0\RegExApplication.csproj.CoreCompileInputs.cache
+c:\Users\DeLL\Documents\CS Projects\cs\RegExApplication\obj\Debug\net5.0\RegExApplication.dll
+c:\Users\DeLL\Documents\CS Projects\cs\RegExApplication\obj\Debug\net5.0\ref\RegExApplication.dll
+c:\Users\DeLL\Documents\CS Projects\cs\RegExApplication\obj\Debug\net5.0\RegExApplication.pdb
+c:\Users\DeLL\Documents\CS Projects\cs\RegExApplication\obj\Debug\net5.0\RegExApplication.genruntimeconfig.cache
